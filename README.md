@@ -1,2 +1,2 @@
 # Learning-projects-
-This repository contains simple projects while learning .
+This repository contains simple projects while I'm learning .
